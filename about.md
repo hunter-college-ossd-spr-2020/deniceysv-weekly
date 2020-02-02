@@ -4,7 +4,6 @@ title: About
 permalink: /about/
 ---
 
-You should put some information about you here.
 #### About Me
 My name is Denice Veluz, and I am 22 years old. I am a Computer Science student at Hunter College and am expected to graduate in Fall 2020.
 
