@@ -23,6 +23,6 @@ following the same syntax.
 
 | Week #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-|  2   | [link to contribution](https://github.com/stewartweiss/butterfly-network/blob/master/butterfly_edges.c)    | Project code    |   I wrote a program for the repository ....    |
+|  3   | [link to contribution](https://www.openstreetmap.org/changeset/81083657#map=19/34.05617/-117.18214)    | Added an OpenStreetMap Feature    |   I added a restaurant (Redlands Oyster Cult) to the map in Redlands, CA. It is a fairly new restaurant in the area, so it makes sense as to why it was not on the map yet. Thus, I added it.  |
 |     |     |     |      |
 |     |     |     |      |
