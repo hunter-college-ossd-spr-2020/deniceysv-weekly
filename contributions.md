@@ -23,6 +23,7 @@ following the same syntax.
 
 | Week #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-|  3   | [link to contribution](https://www.openstreetmap.org/changeset/81083657#map=19/34.05617/-117.18214)    | Added an OpenStreetMap Feature    |   I added a restaurant (Redlands Oyster Cult) to the map in Redlands, CA. It is a fairly new restaurant in the area, so it makes sense as to why it was not on the map yet. Thus, I added it.  |
-|     |     |     |      |
-|     |     |     |      |
+|  3   | [added a restaurant](https://www.openstreetmap.org/changeset/81083657#map=19/34.05617/-117.18214)    | Added an OpenStreetMap Feature    |   I added a restaurant (Redlands Oyster Cult) to the map in Redlands, CA. It is a fairly new restaurant in the area, so it makes sense as to why it was not on the map yet. Thus, I added it.  |
+|  3   | [added an ice cream shop](https://www.openstreetmap.org/changeset/81083674#map=19/34.05401/-117.18217) | Added an OpenStreetMap Feature    |  I added an ice cream shop that moved locations.   |
+
+
