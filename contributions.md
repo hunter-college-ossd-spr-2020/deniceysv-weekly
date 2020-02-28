@@ -26,5 +26,7 @@ following the same syntax.
 |  3   | [OpenStreetMap Contribution](https://www.openstreetmap.org/changeset/81083657#map=19/34.05617/-117.18214)    | Added an OpenStreetMap Feature    |   I added a restaurant (Redlands Oyster Cult) to the map in Redlands, CA. It is a fairly new restaurant in the area, so it makes sense as to why it was not on the map yet. Thus, I added it.  |
 |  3   | [OpenStreetMap Contribution](https://www.openstreetmap.org/changeset/81083674#map=19/34.05401/-117.18217) | Added an OpenStreetMap Feature    |  I added an ice cream shop (Theron's Frozen Custard) in Redlands, CA that moved locations.   |
 |  4   | [Blog Edit](https://github.com/hunter-college-ossd-spr-2020/sdhani-weekly/pull/3) | Corrected a Blog    |  I made a grammar correction to another student's blog.   |
+|  5   | [OpenStreetMap Contribution](https://www.openstreetmap.org/way/765230737)    | Added an OpenStreetMap Feature    |   I added a church (Loma Linda Filipino SDA Church) to the map in Redlands, CA. |
+|  5   | [OpenStreetMap Contribution](https://www.openstreetmap.org/way/403354396)    | Added an OpenStreetMap Feature    |   I added a pharmacy (Rite Aid) to the map in Loma Linda, CA. |
 
 
