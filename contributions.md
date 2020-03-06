@@ -28,5 +28,8 @@ following the same syntax.
 |  4   | [Blog Edit](https://github.com/hunter-college-ossd-spr-2020/sdhani-weekly/pull/3) | Corrected a Blog    |  I made a grammar correction to another student's blog.   |
 |  5   | [OpenStreetMap Contribution](https://www.openstreetmap.org/way/765230737)    | Added an OpenStreetMap Feature    |   I added a church (Loma Linda Filipino SDA Church) to the map in Redlands, CA. |
 |  5   | [OpenStreetMap Contribution](https://www.openstreetmap.org/way/403354396)    | Added an OpenStreetMap Feature    |   I added a pharmacy (Rite Aid) to the map in Loma Linda, CA. |
+|  6   | [OpenStreetMap Contribution](https://www.openstreetmap.org/way/503319824)    | Added an OpenStreetMap Feature    |   I added a fast food restaurant (Carl's Jr.) to the map in Loma Linda, CA. |
+|  6   | [OpenStreetMap Contribution](https://www.openstreetmap.org/way/502786221)    | Added an OpenStreetMap Feature    |   I added an ice cream shop (Fix Creamery) to the map in Loma Linda, CA. |
+|  6   | [OpenStreetMap Contribution](https://www.openstreetmap.org/way/471961767)    | Added an OpenStreetMap Feature    |   I added a bank (U.S. Bank) to the map in Glendale, CA. |
 
 
