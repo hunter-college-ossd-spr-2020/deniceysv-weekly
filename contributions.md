@@ -32,5 +32,7 @@ following the same syntax.
 |  6   | [OpenStreetMap Contribution](https://www.openstreetmap.org/way/502786221)    | Added an OpenStreetMap Feature    |   I added an ice cream shop (Fix Creamery) to the map in Loma Linda, CA. |
 |  6   | [OpenStreetMap Contribution](https://www.openstreetmap.org/way/471961767)    | Added an OpenStreetMap Feature    |   I added a bank (U.S. Bank) to the map in Glendale, CA. |
 |  7   | [Blog Edit](https://github.com/hunter-college-ossd-spr-2020/Megamega53-weekly/pull/8)    | Edited a Blog    |   I made a setence revision to a classmate's blog. |
+|  8   | [OpenStreetMap Contribution](https://www.openstreetmap.org/changeset/82494594)    | Added an OpenStreetMap Feature    |   I deleted a clothing store (Banned Skate Shop) in Redlands, CA.  |
+|  8   | [OpenStreetMap Contribution](https://www.openstreetmap.org/changeset/82494659)    | Added an OpenStreetMap Feature    |   I added a clothing store (Banned Skate Shop) to the map in Redlands, CA because it relocated. |
 
 
