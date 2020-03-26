@@ -34,5 +34,11 @@ following the same syntax.
 |  7   | [Blog Edit](https://github.com/hunter-college-ossd-spr-2020/Megamega53-weekly/pull/8)    | Edited a Blog    |   I made a setence revision to a classmate's blog. |
 |  8   | [OpenStreetMap Contribution](https://www.openstreetmap.org/changeset/82494594)    | Added an OpenStreetMap Feature    |   I deleted a clothing store (Banned Skate Shop) in Redlands, CA.  |
 |  8   | [OpenStreetMap Contribution](https://www.openstreetmap.org/changeset/82494659)    | Added an OpenStreetMap Feature    |   I added a clothing store (Banned Skate Shop) to the map in Redlands, CA because it relocated. |
+|  9   | [Wikipedia Contribution](https://en.wikipedia.org/w/index.php?title=Loma_Linda_Academy&diff=prev&oldid=947403577)    | Wikipedia Name Correction    |   I corrected the name of Loma Linda Academy's elementary principal. |
+|  9   | [Wikipedia Contribution](https://en.wikipedia.org/w/index.php?title=Loma_Linda_Academy&diff=prev&oldid=947403719)    | Wikipedia Name Correction    |   I corrected the name of Loma Linda Academy's junior high principal. |
+|  9   | [Wikipedia Contribution](https://en.wikipedia.org/w/index.php?title=Loma_Linda_Academy&diff=prev&oldid=947403771)    | Wikipedia Name Correction    |   I updated the two principals' name in the infobox. |
+|  9   | [Wikipedia Contribution](https://en.wikipedia.org/w/index.php?title=Loma_Linda_Academy&diff=prev&oldid=947404165)    | Wikipedia Name Correction/Grammatical Clean-Up   |   I updated the junior high and high school principals as they were incorrect. In addition, I also cleaned up small word by capitalizing them. |
+
+
 
 
