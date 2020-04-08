@@ -41,9 +41,9 @@ following the same syntax.
 |  9   | [OpenStreetMap Contribution](https://www.openstreetmap.org/changeset/82796171)    | Added an OpenStreetMap Feature    |   I added a new church (Loma Linda Korean SDA Church) in Redlands, CA.  |
 |  9   | [OpenStreetMap Contribution](https://www.openstreetmap.org/changeset/82796187#map=19/34.06266/-117.22212)    | Added an OpenStreetMap Feature    |   I added Panda Express to the map in Redlands, CA. |
 |  10   | [Wikipedia Contribution](https://en.wikipedia.org/w/index.php?title=Luisiana,_Laguna&diff=prev&oldid=949858525)    | Wikipedia "Sister" City Removal    |   I removed a sister city in the Luisiana, Laguna article because it was irrelevant. |
-|  10   | [Wikipedia Contribution](https://en.wikipedia.org/w/index.php?title=Mandaluyong&diff=prev&oldid=949858911)    | Wikipedia Name Correction   |   I corrected the mayor's name. |
-|  10   | [Wikipedia Contribution](https://en.wikipedia.org/w/index.php?title=Mandaluyong&diff=prev&oldid=949859449)    | Wikipedia Name Correction   |   I corrected the vice mayor's name.  |
-|  10   | [Wikipedia Contribution](https://en.wikipedia.org/w/index.php?title=Luisiana,_Laguna&diff=prev&oldid=949860574)    | Wikipedia Name Update    |   I updated the vice mayor. |
+|  10   | [Wikipedia Contribution](https://en.wikipedia.org/w/index.php?title=Mandaluyong&diff=prev&oldid=949858911)    | Wikipedia Name Correction   |   I corrected the mayor's name in the infobox. |
+|  10   | [Wikipedia Contribution](https://en.wikipedia.org/w/index.php?title=Mandaluyong&diff=prev&oldid=949859449)    | Wikipedia Name Correction   |   I corrected the vice mayor's name in the infobox.  |
+|  10   | [Wikipedia Contribution](https://en.wikipedia.org/w/index.php?title=Luisiana,_Laguna&diff=prev&oldid=949860574)    | Wikipedia Name Update    |   I updated the vice mayor in the infobox. |
 
 
 
