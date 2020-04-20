@@ -44,6 +44,9 @@ following the same syntax.
 |  10   | [Wikipedia Contribution](https://en.wikipedia.org/w/index.php?title=Mandaluyong&diff=prev&oldid=949858911)    | Wikipedia Name Correction   |   I corrected the mayor's name in the infobox. |
 |  10   | [Wikipedia Contribution](https://en.wikipedia.org/w/index.php?title=Mandaluyong&diff=prev&oldid=949859449)    | Wikipedia Name Correction   |   I corrected the vice mayor's name in the infobox.  |
 |  10   | [Wikipedia Contribution](https://en.wikipedia.org/w/index.php?title=Luisiana,_Laguna&diff=prev&oldid=949860574)    | Wikipedia Name Update    |   I updated the vice mayor in the infobox. |
+|  10   | [OpenStreetMap Contribution](https://www.openstreetmap.org/way/793653601)    | Added an OpenStreetMap Feature   |   I added Cari's Homestyle Bakery in Colton, CA. |
+|  10   | [OpenStreetMap Contribution](https://www.openstreetmap.org/way/793653600)    | Added an OpenStreetMap Feature   |   I added Manna Donuts in Colton, CA. |
+|  10   | [OpenStreetMap Contribution](https://www.openstreetmap.org/way/793653599)    | Added an OpenStreetMap Feature   |   I added Gul Naz Cuisine of Pakistan in Colton, CA. |
 
 
 
