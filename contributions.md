@@ -47,6 +47,8 @@ following the same syntax.
 |  10   | [OpenStreetMap Contribution](https://www.openstreetmap.org/way/793653601)    | Added an OpenStreetMap Feature   |   I added Cari's Homestyle Bakery in Colton, CA. |
 |  10   | [OpenStreetMap Contribution](https://www.openstreetmap.org/way/793653600)    | Added an OpenStreetMap Feature   |   I added Manna Donuts in Colton, CA. |
 |  10   | [OpenStreetMap Contribution](https://www.openstreetmap.org/way/793653599)    | Added an OpenStreetMap Feature   |   I added Gul Naz Cuisine of Pakistan in Colton, CA. |
+|  11   | [Wikipedia Contribution](https://en.wikipedia.org/w/index.php?title=Loma_Linda,_California&diff=prev&oldid=953396266)    | Edited a Wikipedia article   |   I updated the Mayor of Loma Linda, CA. |
+|  11   | [Wikipedia Contribution](https://en.wikipedia.org/w/index.php?title=Loma_Linda,_California&diff=prev&oldid=953396713)    | Edited a Wikipedia article   |   I updated the other city council officials of Loma Linda, CA. |
 
 
 
