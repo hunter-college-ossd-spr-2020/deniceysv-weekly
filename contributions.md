@@ -49,6 +49,7 @@ following the same syntax.
 |  10   | [OpenStreetMap Contribution](https://www.openstreetmap.org/way/793653599)    | Added an OpenStreetMap Feature   |   I added Gul Naz Cuisine of Pakistan in Colton, CA. |
 |  11   | [Wikipedia Contribution](https://en.wikipedia.org/w/index.php?title=Loma_Linda,_California&diff=prev&oldid=953396266)    | Edited a Wikipedia article   |   I updated the Mayor of Loma Linda, CA. |
 |  11   | [Wikipedia Contribution](https://en.wikipedia.org/w/index.php?title=Loma_Linda,_California&diff=prev&oldid=953396713)    | Edited a Wikipedia article   |   I updated the other city council officials of Loma Linda, CA. |
+|  12   | [freeCodeCamp Contribution](https://www.youtube.com/timedtext_cs_panel?tab=1&ar=1588552020074)    | Wrote CC   |   I wrote and added closed captions to a tutorial video on freeCodeCamp's YouTube channel. |
 
 
 
