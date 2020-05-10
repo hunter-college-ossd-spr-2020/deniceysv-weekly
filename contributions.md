@@ -50,6 +50,8 @@ following the same syntax.
 |  11   | [Wikipedia Contribution](https://en.wikipedia.org/w/index.php?title=Loma_Linda,_California&diff=prev&oldid=953396266)    | Edited a Wikipedia article   |   I updated the Mayor of Loma Linda, CA. |
 |  11   | [Wikipedia Contribution](https://en.wikipedia.org/w/index.php?title=Loma_Linda,_California&diff=prev&oldid=953396713)    | Edited a Wikipedia article   |   I updated the other city council officials of Loma Linda, CA. |
 |  12   | [freeCodeCamp Contribution](https://www.youtube.com/timedtext_cs_panel?tab=1&ar=1588552020074)    | Wrote CC   |   I wrote and added closed captions to a tutorial video on freeCodeCamp's YouTube channel. |
+|  13   | [freeCodeCamp Contribution](https://www.youtube.com/timedtext_editor?action_mde_edit_form=1&v=_xkSvufmjEs&lang=en&bl=csps&ui=sub&ref=hub&ar=1589147046029&tab=captions)    | Wrote CC   |   I wrote and added closed captions to a tutorial video on freeCodeCamp's YouTube channel. |
+|  13   | [freeCodeCamp Contribution](https://www.youtube.com/timedtext_editor?action_mde_edit_form=1&v=-h7gOJbIpmo&lang=en&bl=csps&ui=sub&ref=hub&ar=1589147019028&tab=captions)    | Wrote CC   |   I wrote and added closed captions to a tutorial video on freeCodeCamp's YouTube channel. |
 
 
 
